@@ -1,0 +1,27 @@
+/* settings start */
+@import url(fonts.css);
+:root {
+    --R-900: 'Roboto-Black-900';
+    --R-700: 'Roboto-Bold-700';
+    --R-300: 'Roboto-Light-300';
+    --R-500: 'Roboto-Medium-500';
+    --R-400: 'Roboto-Regular-400';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+/* settings and */
+/* ************************************************************** */
+/* header start */
+
+
